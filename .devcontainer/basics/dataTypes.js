@@ -5,6 +5,7 @@
 console.log(3 
     + 3); // code readability
 
+let na
 let name = "Swapnil"
 let age = 23
 let isLoggedIn = false
